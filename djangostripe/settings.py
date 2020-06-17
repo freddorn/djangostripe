@@ -25,7 +25,7 @@ SECRET_KEY = 'l7$a(684*3pj51i%+__g7o__j#s@bo65o!e308&z@jqy(@pfrc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangostripe.herokuapp.com']
 
 
 # Application definition
